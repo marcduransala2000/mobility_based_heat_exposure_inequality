@@ -1,6 +1,6 @@
 # mobility_based_heat_exposure_inequality
 
-Repository for the results of the paper **“Daily mobility contributes to urban heat exposure inequalities across income and age groups”** (arXiv: )
+Repository for the results of the paper **“Mobility shapes heat exposure inequalities in cities”**
 
 ## Structure
 
